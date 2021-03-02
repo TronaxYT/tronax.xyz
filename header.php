@@ -1,5 +1,5 @@
     <!-- HEADER ---------------------------------------->
-
+    <?php ?>
     <header>
       <div id="logo">
         <a href="index.html">
