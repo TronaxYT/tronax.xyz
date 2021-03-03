@@ -1,0 +1,65 @@
+#eingabe {
+    resize: none;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:aliceblue;
+    height: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 35px;
+    width: 400px;
+    border-top: rgba(0, 0, 0, 0);
+    border-left: rgba(0, 0, 0, 0);
+    border-right: rgba(0, 0, 0, 0);
+    border-bottom: rgba(0, 0, 0, 1);
+    text-align: right;
+}
+.numberbutton {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    border: rgba(0, 0, 0, 0);
+    margin-left: -2;
+    margin-right: -2;
+}
+.zerobutton {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    border: rgba(0, 0, 0, 0);
+    margin-left: -3;
+}
+.comabutton {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    border: rgba(0, 0, 0, 0);
+    margin-left: -4;
+    margin-right: -2;
+}
+.numberbutton:hover {
+    background-color: rgba(10, 10, 10, 0.5);
+}
+.comabutton:hover {
+    background-color: rgba(10, 10, 10, 0.5);
+}
+.zerobutton:hover {
+    background-color: rgba(10, 10, 10, 0.5); 
+}
+.numberbutton:active {
+    background-color: rgba(110, 110, 110, 0.5);
+}
+.comabutton:active {
+    background-color: rgba(110, 110, 110, 0.5);
+}
+.zerobutton:active {
+    background-color: rgba(110, 110, 110, 0.5);
+}

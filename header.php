@@ -8,7 +8,7 @@
       </div>
 
       <nav id="main-nav">
-        <ul>
+        <ul id="rightlist">
           <li id="twitch"> <a href="https://www.twitch.tv/tronaxyt"><img src="./img/twitchlogo.png" alt="Twitch"></a> </li>
           <li id="twitter"> <a href="https://twitter.com/Tronax"><img src="./img/twitterlogo.png" alt="Twitter"></a> </li>
           <li id="instagram"> <a href="https://www.instagram.com/tronax_/"><img src="./img/instagramlogo.png" alt="Instagram"></a> </li>

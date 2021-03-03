@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tronax</title>
+    <title>Tronax - Impressum</title>
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="./img/logo.ico">
 
