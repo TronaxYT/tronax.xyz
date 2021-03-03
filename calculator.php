@@ -108,7 +108,7 @@
         function equalsb() {
             var t1 = document.getElementById("eingabe").value  
             var t2 = t1.replace("𝜋", "Math.PI"); 
-            var t3 = t2.replace("²", "^2");
+            var t3 = t2.replace("²", "Math.sqr");
             if(t1 != "") {
                document.getElementById("eingabe").value = eval(t3); 
             } else {
