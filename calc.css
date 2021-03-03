@@ -4,9 +4,9 @@
     background-color: rgba(0, 0, 0, 0.5);
     color:aliceblue;
     height: 100px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: sans-serif;
     font-size: 35px;
-    width: 400px;
+    width: 500px;
     border-top: rgba(0, 0, 0, 0);
     border-left: rgba(0, 0, 0, 0);
     border-right: rgba(0, 0, 0, 0);
@@ -24,7 +24,7 @@
     height: 100px;
     background-color: rgba(0, 0, 0, 0.5);
     color:aliceblue;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: sans-serif;
     font-size: 50px;
     border: rgba(0, 0, 0, 0);
     margin-left: -2;
@@ -35,7 +35,7 @@
     height: 100px;
     background-color: rgba(0, 0, 0, 0.5);
     color:aliceblue;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: sans-serif;
     font-size: 50px;
     border: rgba(0, 0, 0, 0);
     margin-left: -3;
@@ -45,7 +45,7 @@
     height: 100px;
     background-color: rgba(0, 0, 0, 0.5);
     color:aliceblue;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: sans-serif;
     font-size: 50px;
     border: rgba(0, 0, 0, 0);
     margin-left: -4;
@@ -82,4 +82,10 @@
 }
 button  {
     outline: none;
+}
+#zero {
+    width: 200px;
+}
+#equals {
+    width: 200px;
 }
