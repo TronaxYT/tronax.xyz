@@ -27,9 +27,10 @@
 
 
     </section>
-
     <!-- FOOTER ---------------------------------------->
 
     <?php
     require 'footer.php';
     ?>
+  </body>
+</html>
