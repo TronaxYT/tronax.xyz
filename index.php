@@ -22,7 +22,7 @@
 
     <section id="home">
       <div id="biglogo">
-        <img src="./img/logo.png" alt="Logo" align="middle">
+        <img draggable="false" src="./img/logo.png" alt="Logo" align="middle">
       </div>
 
 
